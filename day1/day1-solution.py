@@ -4,7 +4,7 @@ inputFile = open('day1-input.txt', 'r')
 numbers = inputFile.readlines()
 
 
-# Finds two entries in day1-input.txt that sum to 2020 and multiplies them
+# Finds two entries in inputFile that sum to 2020 and multiplies them
 def twoNumbers():
     for x in numbers:
         for y in numbers:
@@ -13,7 +13,7 @@ def twoNumbers():
                 print('2020 = ', x, ' + ', y, ', result of multiplication: ', result)
                 return
 
-# Finds three entries in day1-input.txt that sum to 2020 and multiplies them
+# Finds three entries in inputFile that sum to 2020 and multiplies them
 def threeNumbers():
     for a in numbers:
         for b in numbers:
