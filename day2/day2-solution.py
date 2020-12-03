@@ -19,9 +19,9 @@ def validPasswordsPart1():
         for char in range(0, len(password)):
             if password[char] == letter:
                 letterCount += 1
-        
+
         if (letterCount >= int(letterRepeatRange[0]) and letterCount <= int(letterRepeatRange[1])):
-                numberOfValidPasswords += 1
+            numberOfValidPasswords += 1
 
     print('Number of valid passwords in part 1: ', numberOfValidPasswords)
 
