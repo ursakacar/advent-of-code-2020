@@ -1,7 +1,5 @@
 # DAY 3: Advent Of Code 2020
 
-# Each line in the input file has its password policy and the password
-
 inputFile = open('day3-input.txt', 'r')
 area = inputFile.readlines()
 
