@@ -3,7 +3,7 @@
 inputFile = open('day5-input.txt', 'r')
 boardingPasses = inputFile.readlines()
 
-# highest boarding pass ID
+# highest boarding pass ID & the ID of your seat
 
 def boardingPassID():
     maxSeatID = 0 # would not be needed as we have an array in part 2 of the puzzle, but I'm leaving it in, because no reason :)
