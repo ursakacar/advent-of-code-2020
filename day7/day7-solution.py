@@ -1,4 +1,4 @@
-# DAY 6: Advent Of Code 2020
+# DAY 7: Advent Of Code 2020
 
 inputFile = open('day7-input.txt', 'r')
 luggageRules = inputFile.readlines()
