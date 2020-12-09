@@ -2,4 +2,4 @@
 
 https://adventofcode.com/2020/
 
-🎁🎄 Did AOC2020 together with my bofriend in an attempt to start some of our very own Christmas traditions. 🦌
+🎁🎄 Doing AOC2020 together with my boyfriend (as in I'm coding and he acts as a stand in for Stack Overflow) in an attempt to start some of our very own Christmas traditions. 🦌
