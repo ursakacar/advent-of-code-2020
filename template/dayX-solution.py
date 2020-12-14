@@ -1,7 +1,7 @@
 # DAY X: Advent Of Code 2020
 
-inputFile = open('day8-example-input.txt', 'r')
-data = inputFile.readlines()
+inputFile = open('dayx-example-input.txt', 'r')
+data = inputFile.read().split('\n')
 
 # PART 1: 
 

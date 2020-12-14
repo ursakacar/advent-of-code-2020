@@ -1,4 +1,4 @@
-# DAY X: Advent Of Code 2020
+# DAY 10: Advent Of Code 2020
 
 inputFile = open('day10-input.txt', 'r')
 adapters = inputFile.read().split('\n')
